@@ -1,5 +1,7 @@
 # cloudsnapshots
 
+Create cloud snapshots of specified volume with tags.
+
 usage: createsnap.py [-h] -v VOLUME_IDS [VOLUME_IDS ...] [-s SAFEMODE]
                      [-t SERVERNAME] [-n NAMETAG] [-r REGION] [-d DELETEFLAG]
 
